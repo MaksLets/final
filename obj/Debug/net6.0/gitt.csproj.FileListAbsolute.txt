@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\gitt\bin\Debug\net6.0\gitt.exe
+C:\Users\MSI\Desktop\gitt\bin\Debug\net6.0\gitt.deps.json
+C:\Users\MSI\Desktop\gitt\bin\Debug\net6.0\gitt.runtimeconfig.json
+C:\Users\MSI\Desktop\gitt\bin\Debug\net6.0\gitt.dll
+C:\Users\MSI\Desktop\gitt\bin\Debug\net6.0\gitt.pdb
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.AssemblyInfo.cs
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.dll
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\refint\gitt.dll
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.pdb
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\gitt.genruntimeconfig.cache
+C:\Users\MSI\Desktop\gitt\obj\Debug\net6.0\ref\gitt.dll
